@@ -1,5 +1,5 @@
-## Short description
-The goal of this project is create fully connected map and find the desirable random point on the map starting from center. The achieve both purpose I used Breadth First Search algorithm. Every time user clicked on the application, a new random fully connected map is appear after it is created. And solving algorithm starts to find desirable point. Depends on the random map and location of the point finding time may change.
+## Description
+The goal of this project is to create a fully connected map and find the desirable random point on the map starting from the center. The achieve both purposes I used the Breadth-First Search algorithm. Every time user clicked on the application, a new random fully connected map appears after it is created. And solving algorithm starts to find the desirable point. Depending on the random map and location of the point finding time may change.
 
 
 ## Demo GIF
